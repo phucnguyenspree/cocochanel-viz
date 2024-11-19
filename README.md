@@ -1,2 +1,2 @@
-# cocochanel-viz.github.io
+# cocochanel-viz
 Coco Chanel visualization root page
